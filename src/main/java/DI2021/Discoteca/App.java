@@ -21,9 +21,9 @@ public class App
         	System.out.println(album);
         }
         
-        List<Usuario> usuarios = UsuarioRecoveryService.getAllUsuarios();
+        /*List<Usuario> usuarios = UsuarioRecoveryService.getAllUsuarios();
         for(var user: usuarios) {
         	System.out.println(user);
-        }
+        }*/
     }
 }

@@ -8,7 +8,7 @@ import DI2021.Discoteca.services.AlbumRecoveryService;
 import DI2021.Discoteca.services.UsuarioRecoveryService;
 
 /**
- * Hello world!
+ * 
  *
  */
 public class App 
